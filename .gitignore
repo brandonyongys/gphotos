@@ -1,0 +1,8 @@
+# Ignore sensitive folders
+/credentials/credentials.json
+/downloads/*.mp4
+/downloads/*.jpg
+
+# venv
+/gphotos/
+/__pycache__/
